@@ -1,0 +1,11 @@
+Possible Routes
+/parking/availability [full or available]
+/parking/entry
+/parking/exit
+
+HTML PAGE
+ENTER BUTTONS , EXIT BUTTON
+
+INDEX --> CONTROLLER
+MODEL --> MODEL FOLDER
+COMMANDS USED --> ENTRY , EXIT
